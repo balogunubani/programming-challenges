@@ -1,4 +1,3 @@
 programming-challenges
 ======================
-
-Solutions to programming challenges I have partaken in
+My Solutions to various online programming challenges
